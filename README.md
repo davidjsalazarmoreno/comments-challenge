@@ -19,6 +19,11 @@ yarn install
 yarn run
 ```
 
+To run the tests:
+```
+yarn test
+```
+
 You can install dependencies into the application using `yarn add`. 
 
 ## Requirements
