@@ -1,0 +1,42 @@
+.App {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.App__container {
+  width: 500px;
+}
+
+.App__filter-placeholder {
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  width: 100%;
+  height: 45px;
+}
+
+.App__comment-list-placeholder {
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 3px;
+  display: flex;
+  height: 700px;
+  justify-content: center;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.App__comment-input-placeholder {
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 3px;
+  display: flex;
+  height: 250px;
+  justify-content: center;
+  margin-bottom: 20px;
+  width: 100%;
+}

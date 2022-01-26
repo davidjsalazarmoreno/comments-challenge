@@ -1,0 +1,21 @@
+.comment.hidden {
+  display: none;
+}
+
+.comment {
+  width: 100%;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #fafafa;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.comment-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.comment-text {
+  margin-top: 0.5rem;
+}
